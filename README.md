@@ -1,3 +1,4 @@
+![Bannière du projet](./IA-colok-CDF.png)
 # Résumé indépendant du colloque “Intelligence Artificielle et Formes de l’Intelligence”
 _Collège de France, octobre 2025_
 
