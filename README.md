@@ -18,4 +18,3 @@ Tous droits réservés aux auteurs originaux des conférences.
 
 ---
 
-✳️ _Ce projet s’inscrit dans une série de synthèses IA et humanités disponibles sur [franckbardol.com](https://franckbardol.com)._
